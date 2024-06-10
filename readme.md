@@ -5,7 +5,7 @@
 
 <hr>
 <h1 align="center">Hi there! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="wave" width="30" height="30" />, I'm Vivek Bhurke</h1>
-<h3 align="center">A passionate Photographer 📸</h3>
+<h3 align="center">A passionate Photographer 📸 and Computer Science Student 💻</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlRmPUe4jpJoqDe/giphy.gif" alt="camera" width="300" height="200" />
@@ -14,7 +14,7 @@
 <hr>
 <h3 align="center">About Me</h3>
 <p align="center">
-  I'm a creative soul who loves capturing moments and turning them into art. My passion for photography drives me to explore new techniques and continuously improve my skills.
+  I'm a creative soul who loves capturing moments and turning them into art. My passion for photography drives me to explore new techniques and continuously improve my skills. Besides photography, I'm a computer science student who loves diving into new technologies and programming languages.
 </p>
 
 <hr>
@@ -47,6 +47,11 @@
 <h3 align="center">⚙️ Tools & Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom">
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
