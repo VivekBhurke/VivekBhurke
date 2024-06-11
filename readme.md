@@ -3,7 +3,7 @@
 # Hi there! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="wave" width="30" height="30" />, I'm Vivek Bhurke
 ### A passionate Photographer 📸 and Computer Science Student 💻
 
-![camera](https://media.giphy.com/media/l0HlRmPUe4jpJoqDe/giphy.gif)
+![camera]([https://media.giphy.com/media/l0HlRmPUe4jpJoqDe/giphy.gif](https://media.tenor.com/PChygsZkPmMAAAAi/tkthao219-bubududu.gif))
 
 ## About Me
 I'm a creative soul who loves capturing moments and turning them into art. My passion for photography drives me to explore new techniques and continuously improve my skills. Besides photography, I'm a computer science student who loves diving into new technologies and programming languages.
@@ -12,7 +12,7 @@ I'm a creative soul who loves capturing moments and turning them into art. My pa
 🌱 Currently diving into **Java** to expand my technical skillset and explore the world of programming.
 
 ## 📫 How to Reach Me
-Feel free to reach out via email at: [**vivekbhurke863@gmail.com**](mailto:vivekbhurke863@gmail.com)
+Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gmail.com)
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivek__bhurke/)
@@ -42,10 +42,6 @@ Feel free to reach out via email at: [**vivekbhurke863@gmail.com**](mailto:vivek
 
 ## 💡 LeetCode Profile
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivek_bhurke/)
-
-## 🎬 Latest YouTube Videos
-[![Video 1](https://img.shields.io/badge/-Video%201-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=videoid1)
-[![Video 2](https://img.shields.io/badge/-Video%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=videoid2)
 
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
