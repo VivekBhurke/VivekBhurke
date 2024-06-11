@@ -23,7 +23,7 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekBhurke)
 
 ## 🎨 My Photography Portfolio
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourphotographyportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivekbhurke.github.io/photographs/)
 
 ## ⚙️ Tools & Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
