@@ -1,19 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
-
-# LeetCode user profile URL
-profile_url = "https://leetcode.com/u/vivek_bhurke/"
-
-# Fetch the profile page
-response = requests.get(profile_url)
-soup = BeautifulSoup(response.text, 'html.parser')
-
-# Extract rating and badges (example)
-rating = soup.find('div', {'class': 'rating'}).text.strip()
-badges = [badge.text.strip() for badge in soup.find_all('div', {'class': 'badge'})]
-
-# Update the README.md file
-readme_content = f"""
 ![header](https://user-images.githubusercontent.com/67046306/213246080-9240fb6d-95ab-44a6-ac9e-67fd5d277812.gif)
 
 # Hi there! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="wave" width="30" height="30" />, I'm Vivek Bhurke
@@ -50,7 +34,6 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=radical)
@@ -59,15 +42,6 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ## 💡 LeetCode Profile
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivek_bhurke/)
 
-### My LeetCode Stats
-- **Rating**: {rating}
-- **Badges**:
-"""
-
-for badge in badges:
-    readme_content += f"  - ![Badge](https://via.placeholder.com/20/FFA116/FFFFFF?text={badge})\n"
-
-readme_content += """
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
 
@@ -78,8 +52,3 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
   <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+3" alt="Photo 3" width="400"></a>
   <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+4" alt="Photo 4" width="400"></a>
 </div>
-"""
-
-# Write to README.md
-with open('README.md', 'w') as f:
-    f.write(readme_content)
