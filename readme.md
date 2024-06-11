@@ -48,8 +48,9 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
 
 ## 📸 My Photographs
 <div align="center">
-  <a href="https://vivekbhurke.github.io/photographs/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+1" alt="Photo 1" width="400"></a>
-  <a href="https://vivekbhurke.github.io/photographs/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+2" alt="Photo 2" width="400"></a>
-  <a href="https://vivekbhurke.github.io/photographs/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+3" alt="Photo 3" width="400"></a>
-  <a href="https://vivekbhurke.github.io/photographs/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+4" alt="Photo 4" width="400"></a>
+  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+1" alt="Photo 1" width="400"></a>
+  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+2" alt="Photo 2" width="400"></a>
+  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+3" alt="Photo 3" width="400"></a>
+  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+4" alt="Photo 4" width="400"></a>
 </div>
+
