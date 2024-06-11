@@ -40,36 +40,8 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhurke&layout=compact&theme=radical)
 
-import requests
-from bs4 import BeautifulSoup
-
-# LeetCode user profile URL
-profile_url = "https://leetcode.com/u/vivek_bhurke/"
-
-# Fetch the profile page
-response = requests.get(profile_url)
-soup = BeautifulSoup(response.text, 'html.parser')
-
-# Extract rating and badges (example)
-rating = soup.find('div', {'class': 'rating'}).text.strip()
-badges = [badge.text.strip() for badge in soup.find_all('div', {'class': 'badge'})]
-
-# Update the README.md file
-readme_content = f"""
 ## 💡 LeetCode Profile
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivek_bhurke/)
-
-### My LeetCode Stats
-- **Rating**: {rating}
-- **Badges**:
-"""
-
-for badge in badges:
-    readme_content += f"  - ![Badge](https://via.placeholder.com/20/FFA116/FFFFFF?text={badge})\n"
-
-# Write to README.md
-with open('README.md', 'w') as f:
-    f.write(readme_content)
+[![LeetCode Profile]([https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256))](https://leetcode.com/u/vivek_bhurke/)
 
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
