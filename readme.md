@@ -1,10 +1,3 @@
-![header](https://user-images.githubusercontent.com/67046306/213246080-9240fb6d-95ab-44a6-ac9e-67fd5d277812.gif)
-
-# Hi there! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="wave" width="30" height="30" />, I'm Vivek Bhurke
-### A passionate Photographer 📸 and Computer Science Student 💻
-
-![camera](https://media.tenor.com/PChygsZkPmMAAAAi/tkthao219-bubududu.gif)
-
 ## About Me
 I'm a creative soul who loves capturing moments and turning them into art. My passion for photography drives me to explore new techniques and continuously improve my skills. Besides photography, I'm a computer science student who loves diving into new technologies and programming languages.
 
