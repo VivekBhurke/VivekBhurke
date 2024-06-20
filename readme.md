@@ -16,7 +16,7 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekBhurke)
 
 ## 🎨 My Photography Portfolio
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivekbhurke.github.io/photographs/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/)
 
 ## ⚙️ Tools & Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -38,9 +38,9 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
 
 ## 📸 My Photographs
 <div align="center">
-  <a href="https://vbphotography.netlify.app/dist/photographs/Bird.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo1.jpg" alt="Photo 1" width="400"></a>
-  <a href="https://vbphotography.netlify.app/dist/photographs/BWrain.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo2.jpg" alt="Photo 2" width="400"></a>
-  <a href="https://vbphotography.netlify.app/dist/photographs/Broken Glass.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo3.jpg" alt="Photo 3" width="400"></a>
-  <a href="https://vbphotography.netlify.app/dist/photographs/Horses.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo4.jpg" alt="Photo 4" width="400"></a>
+  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo1.jpg" alt="Photo 1" width="400"></a>
+  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo2.jpg" alt="Photo 2" width="400"></a>
+  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken Glass.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo3.jpg" alt="Photo 3" width="400"></a>
+  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo4.jpg" alt="Photo 4" width="400"></a>
 </div>
 
