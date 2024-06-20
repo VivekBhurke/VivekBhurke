@@ -38,9 +38,9 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
 
 ## 📸 My Photographs
 <div align="center">
-  <a href="https://vbphotography.netlify.app/Bird.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo1.jpg" alt="Photo 1" width="400"></a>
-  <a href="https://vbphotography.netlify.app/BWrain.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo2.jpg" alt="Photo 2" width="400"></a>
-  <a href="https://vbphotography.netlify.app/Broken Glass.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo3.jpg" alt="Photo 3" width="400"></a>
-  <a href="https://vbphotography.netlify.app/Horses.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo4.jpg" alt="Photo 4" width="400"></a>
+  <a href="https://vbphotography.netlify.app/photographs/Bird.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo1.jpg" alt="Photo 1" width="400"></a>
+  <a href="https://vbphotography.netlify.app/photographs/BWrain.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo2.jpg" alt="Photo 2" width="400"></a>
+  <a href="https://vbphotography.netlify.app/photographs/Broken Glass.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo3.jpg" alt="Photo 3" width="400"></a>
+  <a href="https://vbphotography.netlify.app/photographs/Horses.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo4.jpg" alt="Photo 4" width="400"></a>
 </div>
 
