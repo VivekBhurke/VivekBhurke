@@ -32,16 +32,15 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhurke&layout=compact&theme=radical)
 
-## 💡 LeetCode Profile
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivek_bhurke/)
 
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
 
 ## 📸 My Photographs
 <div align="center">
-  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+1" alt="Photo 1" width="400"></a>
-  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+2" alt="Photo 2" width="400"></a>
-  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+3" alt="Photo 3" width="400"></a>
-  <a href="https://66689af97dad032680682fa4--vbphotography.netlify.app/" target="_blank"><img src="https://via.placeholder.com/800x400?text=Photo+4" alt="Photo 4" width="400"></a>
+  <a href="https://vbphotography.netlify.app/Bird.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo1.jpg" alt="Photo 1" width="400"></a>
+  <a href="https://vbphotography.netlify.app/BWrain.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo2.jpg" alt="Photo 2" width="400"></a>
+  <a href="https://vbphotography.netlify.app/Broken Glass.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo3.jpg" alt="Photo 3" width="400"></a>
+  <a href="https://vbphotography.netlify.app/Horses.jpg" target="_blank"><img src="https://vbphotography.netlify.app/photo4.jpg" alt="Photo 4" width="400"></a>
 </div>
+
