@@ -50,8 +50,8 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
     </a>
   </div>
   <div class="grid-item">
-    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken%20Glass.jpg" target="_blank">
-      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken%20Glass.jpg" alt="Photo 3">
+    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BrokenGlass.jpg" target="_blank">
+      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BrokenGlass.jpg" alt="Photo 3">
     </a>
   </div>
   <div class="grid-item">
@@ -61,18 +61,3 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
   </div>
 </div>
 
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  text-align: center;
-}
-
-.grid-item img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-</style>
