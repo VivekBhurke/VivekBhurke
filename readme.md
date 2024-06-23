@@ -38,18 +38,41 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
 
 ## 📸 My Photographs
 
-<div align="center">
-  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" target="_blank">
-    <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" alt="Photo 1" width="400">
-  </a>
-  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" target="_blank">
-    <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" alt="Photo 2" width="400">
-  </a>
-  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken Glass.jpg" target="_blank">
-    <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken Glass.jpg" alt="Photo 3" width="400">
-  </a>
-  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" target="_blank">
-    <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" alt="Photo 4" width="400">
-  </a>
+<div class="grid-container">
+  <div class="grid-item">
+    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" target="_blank">
+      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" alt="Photo 1">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" target="_blank">
+      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" alt="Photo 2">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken%20Glass.jpg" target="_blank">
+      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Broken%20Glass.jpg" alt="Photo 3">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" target="_blank">
+      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" alt="Photo 4">
+    </a>
+  </div>
 </div>
 
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  text-align: center;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+</style>
