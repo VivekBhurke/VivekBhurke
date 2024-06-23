@@ -36,28 +36,13 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
 
-## 📸 My Photographs
+## 📸 My Photography
 
-<div class="grid-container">
-  <div class="grid-item">
-    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" target="_blank">
-      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" alt="Photo 1">
-    </a>
-  </div>
-  <div class="grid-item">
-    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" target="_blank">
-      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" alt="Photo 2">
-    </a>
-  </div>
-  <div class="grid-item">
-    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BrokenGlass.jpg" target="_blank">
-      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BrokenGlass.jpg" alt="Photo 3">
-    </a>
-  </div>
-  <div class="grid-item">
-    <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" target="_blank">
-      <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" alt="Photo 4">
-    </a>
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" width="400" alt="Photo 1">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" width="400" alt="Photo 2">
+</p>
+<p align="center">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BrokenGlass.jpg" width="400" alt="Photo 3">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Horses.jpg" width="400" alt="Photo 4">
+</p>
