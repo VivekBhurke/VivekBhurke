@@ -43,6 +43,6 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
   <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" width="500" alt="Photo 2">
 </p>
 <p align="center">
-  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/leaves.jpg" width="500" alt="Photo 3">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Tap.jpg" width="500" alt="Photo 3">
   <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/School.jpg" width="500" alt="Photo 4">
 </p>
