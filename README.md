@@ -38,11 +38,11 @@ Did you know? The world's oldest known photograph was taken by Joseph Nicéphore
 ## 📸 My Photography
 <table>
   <tr>
-    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" width="500" alt="Photo 1"></td>
-    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" width="500" alt="Photo 2"></td>
+    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" width="400" alt="Photo 1"></td>
+    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" width="400" alt="Photo 2"></td>
   </tr>
   <tr>
-    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Tap.jpg" width="600" alt="Photo 3"></td>
-    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/School.jpg" width="500" alt="Photo 4"></td>
+    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Tap.jpg" width="400" alt="Photo 3"></td>
+    <td><img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/School.jpg" width="400" alt="Photo 4"></td>
   </tr>
 </table>
