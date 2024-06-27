@@ -9,18 +9,6 @@
     font-size: 1.1em;
     color: #333;
   }
-  .photo-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 20px;
-  }
-  .photo-gallery img {
-    width: 250px;
-    margin: 10px;
-    border: 3px solid #ddd;
-    border-radius: 10px;
-  }
   .contact-links a {
     display: inline-block;
     margin: 5px;
