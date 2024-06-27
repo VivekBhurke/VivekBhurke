@@ -36,13 +36,22 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
 
-## 📸 My Photography
+<style>
+  .photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .photo-gallery img {
+    width: 500px;
+    margin: 10px;
+  }
+</style>
 
-<p align="center">
-  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" width="500" alt="Photo 1">
-  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" width="500" alt="Photo 2">
-</p>
-<p align="center">
-  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Tap.jpg" width="500" alt="Photo 3">
-  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/School.jpg" width="500" alt="Photo 4">
-</p>
+<div class="photo-gallery">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" alt="Photo 1">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/BWrain.jpg" alt="Photo 2">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Tap.jpg" alt="Photo 3">
+  <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/School.jpg" alt="Photo 4">
+</div>
+
