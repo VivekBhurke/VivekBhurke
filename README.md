@@ -32,6 +32,9 @@ Feel free to reach out via email at: [**vivek_bhurke**](mailto:vivekbhurke863@gm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhurke&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=VivekBhurke&style=for-the-badge&color=blue)
+
+
 ## 🎉 Fun Fact
 Did you know? The world's oldest known photograph was taken by Joseph Nicéphore Niépce in 1826, and it took 8 hours to expose!
 
