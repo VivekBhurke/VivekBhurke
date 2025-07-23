@@ -64,20 +64,16 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 
 ### ✍️ Recent Posts:
 
+- <img src="https://edison365.com/wp-content/uploads/2022/03/How-do-hackathons-work.png" alt="Blog Thumbnail" width="200"/>
 - 🔗 [**Prep to Present** – *Nov 2024*](https://hitmantravelling.blogspot.com/2024/11/from-preparation-to-presentation.html)
+
+- <img src="https://online.jwu.edu/wp-content/uploads/2024/03/JWU_March_Applications_AI.jpg" alt="Blog Thumbnail" width="200"/>
 - 🔗 [**Future of AI** – *Oct 2024*](https://hitmantravelling.blogspot.com/2024/10/the-future-of-artificial-intelligence.html)
+  
+- <img src="https://tripxl.com/blog/wp-content/uploads/2024/10/Top-10-Forts-in-Maharashtra.jpg" alt="Blog Thumbnail" width="200"/>
 - 🔗 [**Joys of Travel** – *May 2022*](https://hitmantravelling.blogspot.com/2022/05/the-joys-of-traveling-journey-beyond.html)
 
 > 🌍 More at: [**hitmantravelling.blogspot.com**](https://hitmantravelling.blogspot.com)
-
----
-
-### 📸 Blogger Tip: Add Thumbnails
-
-If Blogger allows, add a thumbnail to each post using:
-
-
-<img src="https://www.postermywall.com/index.php/art/template/d218c4befcdeeb4491c7a377103272a2/it%27s-time-to-travel-design-template" alt="Blog Thumbnail" width="200"/>
 
 ---
 
