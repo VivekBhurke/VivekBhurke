@@ -59,23 +59,36 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 </div>
 
 ---
-
 ## 📝 Blog Showcase – *Hitman Travelling*
 
-### ✍️ Recent Posts:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://hitmantravelling.blogspot.com/2024/11/from-preparation-to-presentation.html" target="_blank">
+        <img src="https://edison365.com/wp-content/uploads/2022/03/How-do-hackathons-work.png" width="200px"/><br/>
+        <b>Prep to Present</b><br/>
+        <i>Nov 2024</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hitmantravelling.blogspot.com/2024/10/the-future-of-artificial-intelligence.html" target="_blank">
+        <img src="https://online.jwu.edu/wp-content/uploads/2024/03/JWU_March_Applications_AI.jpg" width="200px"/><br/>
+        <b>Future of AI</b><br/>
+        <i>Oct 2024</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hitmantravelling.blogspot.com/2022/05/the-joys-of-traveling-journey-beyond.html" target="_blank">
+        <img src="https://tripxl.com/blog/wp-content/uploads/2024/10/Top-10-Forts-in-Maharashtra.jpg" width="200px"/><br/>
+        <b>Joys of Travel</b><br/>
+        <i>May 2022</i>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- <img src="https://edison365.com/wp-content/uploads/2022/03/How-do-hackathons-work.png" alt="Blog Thumbnail" width="200"/>
-- 🔗 [**Prep to Present** – *Nov 2024*](https://hitmantravelling.blogspot.com/2024/11/from-preparation-to-presentation.html)
+> 🌍 Explore more: [**hitmantravelling.blogspot.com**](https://hitmantravelling.blogspot.com)
 
-- <img src="https://online.jwu.edu/wp-content/uploads/2024/03/JWU_March_Applications_AI.jpg" alt="Blog Thumbnail" width="200"/>
-- 🔗 [**Future of AI** – *Oct 2024*](https://hitmantravelling.blogspot.com/2024/10/the-future-of-artificial-intelligence.html)
-  
-- <img src="https://tripxl.com/blog/wp-content/uploads/2024/10/Top-10-Forts-in-Maharashtra.jpg" alt="Blog Thumbnail" width="200"/>
-- 🔗 [**Joys of Travel** – *May 2022*](https://hitmantravelling.blogspot.com/2022/05/the-joys-of-traveling-journey-beyond.html)
-
-> 🌍 More at: [**hitmantravelling.blogspot.com**](https://hitmantravelling.blogspot.com)
-
----
 
 ## ⚙️ Tools & Technologies
 
