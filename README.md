@@ -35,17 +35,20 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 
 ---
 
-## 🎨 My Photography Portfolio
+## 🖼️ Portfolio Websites
 
 <p align="center">
   <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio"/>
+    <img src="https://img.shields.io/badge/-Photography%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://my-port-folio-rho-five.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Developer%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📸 My Dark Theme Photography Showcase
+## 📸 Photography Showcase (Dark Theme)
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px">
   <img src="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/dist/photographs/Bird.jpg" width="45%" style="margin:10px; border-radius:10px" />
@@ -59,45 +62,34 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 
 ## 📝 Blog Showcase – *Hitman Travelling*
 
-Here are some blogs I’ve written:
-
 ### ✍️ Recent Posts:
 
-- 🔗 [**From Preparation to Presentation** — *Nov 2024*](https://hitmantravelling.blogspot.com/2024/11/from-preparation-to-presentation.html)  
-  *An insightful journey of crafting and presenting with confidence.*
+- 🔗 [**Prep to Present** – *Nov 2024*](https://hitmantravelling.blogspot.com/2024/11/from-preparation-to-presentation.html)
+- 🔗 [**Future of AI** – *Oct 2024*](https://hitmantravelling.blogspot.com/2024/10/the-future-of-artificial-intelligence.html)
+- 🔗 [**Joys of Travel** – *May 2022*](https://hitmantravelling.blogspot.com/2022/05/the-joys-of-traveling-journey-beyond.html)
 
-- 🔗 [**The Future of Artificial Intelligence** — *Oct 2024*](https://hitmantravelling.blogspot.com/2024/10/the-future-of-artificial-intelligence.html)  
-  *Explore how AI is changing the world and what lies ahead.*
+> 🌍 More at: [**hitmantravelling.blogspot.com**](https://hitmantravelling.blogspot.com)
 
-- 🔗 [**The Joys of Traveling: A Journey Beyond** — *May 2022*](https://hitmantravelling.blogspot.com/2022/05/the-joys-of-traveling-journey-beyond.html)  
-  *Discover the emotions, beauty, and lessons that travel teaches.*
+---
 
-> 🌍 Explore more on: [**hitmantravelling.blogspot.com**](https://hitmantravelling.blogspot.com)
+### 📸 Blogger Tip: Add Thumbnails
+
+If Blogger allows, add a thumbnail to each post using:
+
+
+<img src="https://www.postermywall.com/index.php/art/template/d218c4befcdeeb4491c7a377103272a2/it%27s-time-to-travel-design-template" alt="Blog Thumbnail" width="200"/>
 
 ---
 
 ## ⚙️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js" height="35"/>
-  <img src="https://skillicons.dev/icons?i=figma,github,linux,vscode" height="35"/>
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" height="28"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js" height="35"/> <img src="https://skillicons.dev/icons?i=figma,github,linux,vscode" height="35"/> <img src="https://img.shields.io/badge/Photoshop-2E9FFF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" height="28"/> </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhurke&layout=compact&theme=tokyonight&border_radius=15&hide_border=false" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VivekBhurke&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VivekBhurke&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" width="47%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBhurke&layout=compact&theme=tokyonight&border_radius=15&hide_border=false" width="47%"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=VivekBhurke&style=for-the-badge&color=blue" alt="Profile Views"/> </p>
 
 ---
 
