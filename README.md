@@ -44,11 +44,11 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 ## 🖼️ Portfolio Websites
 
 <p align="center">
-  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Photography%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://photographyportfolio-git-main-vivekbhurkes-projects.vercel.app/" target="_blank" title="Photography Portfolio">
+    <img src="https://img.shields.io/badge/Photography%20Portfolio-000000?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" />
   </a>
-  <a href="https://my-port-folio-rho-five.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Developer%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://my-port-folio-rho-five.vercel.app/" target="_blank" title="Developer Portfolio">
+    <img src="https://img.shields.io/badge/Developer%20Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
 
