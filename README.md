@@ -26,12 +26,23 @@ Currently pursuing **Computer Science**, I’m passionate about **photography**,
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/vivek__bhurke/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/vivek-bhurke/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://leetcode.com/u/vivek_bhurke/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="https://github.com/VivekBhurke" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.instagram.com/vivek__bhurke/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-bhurke/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/vivek_bhurke/" target="_blank" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" />
+  </a>
+  <a href="https://github.com/VivekBhurke" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
 </p>
+
 
 ---
 
